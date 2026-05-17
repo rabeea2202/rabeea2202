@@ -66,9 +66,9 @@ Responsive chatbot interface built using React.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabeea2202&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabeea2202&theme=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeea2202&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabeea2202&theme=github)
 
 ---
 
