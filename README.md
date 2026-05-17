@@ -47,8 +47,6 @@ AI-powered podcast platform with real-time AI interactions and automated faceles
 
 **Tech:** React • FastAPI • PostgreSQL • AI APIs
 
-[Repository](https://github.com/yourusername/project-link)
-
 ---
 
 ### 🚗 Drivio
@@ -68,9 +66,9 @@ Responsive chatbot interface built using React.
 
 ## 📊 GitHub Stats
 
-![Rabeea's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeea2202&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabeea2202&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeea2202&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeea2202&layout=compact&theme=tokyonight)
 
 ---
 
